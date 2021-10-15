@@ -1,0 +1,16 @@
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\ApiServ
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\appsettings.Development.json
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\appsettings.json
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\aws-beanstalk-tools-defaults.json
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\ApiServ.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\ApiServ.deps.json
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\ApiServ.runtimeconfig.json
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\ApiServ.pdb
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\AWSSDK.Core.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\HttpClient.Extensions.LoggingHttpMessageHandler.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\pedro.lecaros\source\repos\ApiAcid\ApiServ\bin\Debug\netcoreapp2.1\publish\Microsoft.Bcl.AsyncInterfaces.dll
