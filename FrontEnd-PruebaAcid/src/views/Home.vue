@@ -73,7 +73,6 @@ export default {
     
         },onSuccess(googleUser) {
             console.log(googleUser);
-            localStorage.token = googleUser.$b.id_token;
             this.$router.push('dashboard');
 
         },
