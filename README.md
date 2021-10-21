@@ -15,5 +15,5 @@ Y realizar las pruebas en:
 http://localhost:8080/
 
  
-Ejecutar el front y loguear con usuario:Pedro y password: 113456 o con google.
+Ejecutar el front y loguear con usuario:Pedro y password: 123456789 o con google.
 
