@@ -1,4 +1,4 @@
-# Prueba
+# Aws VUE .net CORE
 
 Prueba para CRUD, AWS-Api .net core, frot end VUE, db Dynamo
 
