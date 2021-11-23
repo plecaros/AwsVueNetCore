@@ -1,6 +1,6 @@
-# AcidPrueba
+# Prueba
 
-Prueba para Acid CRUD, AWS-Api .net core, frot end VUE, db Dynamo
+Prueba para CRUD, AWS-Api .net core, frot end VUE, db Dynamo
 
 La API está desplegada en AWS.
 Si va a ocupar otra Dynamo db para probar los servivios localmente, ejecute el metodo createtable.
